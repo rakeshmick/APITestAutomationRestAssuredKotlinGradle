@@ -11,3 +11,7 @@ command to run
 It is a kotlin cucumber project.
 once test is run, you can see the result report link in the response and please
 open it online to see the result.
+
+I have used Kotlin, Cucumber and RestAssured to test the API.
+my API key is hardcoded in the code for as an object for now, which can be kept in
+and environment variable or something for security .
