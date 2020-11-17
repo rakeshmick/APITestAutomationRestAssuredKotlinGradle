@@ -1,4 +1,4 @@
-package io.wool.test.weather
+package weather.conf
 
 object DefaultKeys {
     const val base_url = "https://api.weatherbit.io/v2.0/forecast/daily"

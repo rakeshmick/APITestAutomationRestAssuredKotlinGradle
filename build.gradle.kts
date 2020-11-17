@@ -21,7 +21,7 @@ configurations {
     cucumber{
         featurePath = "src/test/resources"
         plugin= arrayOf("pretty")
-        glue="io.wool.test.weather"
+        glue="weather"
         main = "io.cucumber.core.cli.Main"
 
     }
