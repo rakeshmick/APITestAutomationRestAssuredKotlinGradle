@@ -16,6 +16,7 @@ dependencies {
     testImplementation ("io.cucumber:cucumber-java:6.8.1")
     testImplementation("io.rest-assured:rest-assured:4.3.2")
     testImplementation("com.jayway.jsonpath:json-path:2.4.0")
+    
 }
 configurations {
     cucumber{
